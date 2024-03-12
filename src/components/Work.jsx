@@ -16,10 +16,10 @@ function Work() {
     <div className="custRev" id="workDiv">
       <div className="workingBlock"> 
             <h1 className='workHeaderOne'> Work Experience</h1>
-            <table className="blockQuoteClasses">
+            <table className="blockQuoteClasses increaseTop">
                 <tr>
-                    <th>Front-end</th>
-                    <th>Back-end</th>
+                    <th className='thstylepadding'>Front-end</th>
+                    <th className='thstylepadding'>Back-end</th>
                 </tr>
                 {data.map((val, key) => {
                     return (
