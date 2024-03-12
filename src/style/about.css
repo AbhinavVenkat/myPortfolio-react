@@ -1,0 +1,104 @@
+.outterAboutDiv{
+    padding-top: 72px;
+    padding-right: 100px;
+    padding-bottom: 72px;
+    padding-left: 100px;
+    /* background-color: #3c006b; */
+}
+
+.workingBlock{
+    padding-top: 56px;
+    padding-bottom: 56px;
+    border-top-color: #000;
+    border-top-style: solid;
+    border-top-width: 3px;
+    border-right-color: #000;
+    border-right-style: solid;
+    border-right-width: 3px;
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-left-color: #000;
+    border-left-style: solid;
+    border-left-width: 3px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    text-align: center;
+}
+
+.workingHeader {
+    margin-top: 0;
+    margin-bottom: 0;
+    /* color: #dec2eb; */
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.workingFlowBlockItems {
+    width: 400px;
+    padding-right: 20px;
+    padding-left: 450px;
+    text-align: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.workingFlowBlock{
+    display: flex;
+    padding-top: 32px
+}
+
+.workingFlowMiniHeader{
+    margin-bottom: 20px;
+    font-size: 24px;
+    line-height: 44px;
+    margin-top: 20px;
+}
+
+.aboutHeaderOne{
+    margin-bottom: 20px;
+    font-size: 36px;
+    line-height: 44px;
+    margin-top: 20px;
+}
+
+.workingFlowPara {
+    font-size: 24px;
+    line-height: 150%;
+    font-weight: 400;
+    /* margin-top: 0;
+    margin-bottom: 10px; */
+    padding-left: 40px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
